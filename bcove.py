@@ -325,10 +325,10 @@ class bcove:
 		file.close()
 
 #Variables necesarias solo para pruebas la version definitiva no debe tener etos token debe proporcionarlo el usuario
-rtoken='add your read brightcove token'
-wtoken='add your read brightcove token'
+rtoken='d_EENcDG2R81gfftbHHnICV52SOhqaDEQPT-IpQwioZcpzH8AQR-g..'
+wtoken='2d_EENcDG2R81gfftbHHnICV52SOhqaDP_dzdMpwNzgQz9SUUzmgVQ..'
          
-medulatoken=""
+medulatoken="HhQZBNn33owcbpg8SOLmun_EeJzpX7wCSw2An7cc3k3ZV24E8Cot0g.."
 
 if __name__ == "__main__":
 	usage = "utilizacion: %prog [options] "
